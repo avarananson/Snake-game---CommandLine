@@ -1,5 +1,5 @@
 # Snake-game---CommandLine
-This is a command line Snake game. Its without any use of gaming library
+This is a command line Snake game. It is build without any use of gaming library
 
 
 Requirement is curses library
